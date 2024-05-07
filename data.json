@@ -1,28 +1,13 @@
 [
   {
-    "name" : "DoodleBot",
-    "url" : "gusbus.space/doodlebot/",
+    "name" : "Space Turtle Webring Home",
+    "url" : "gusbus.space/turtlewebring/",
     "owner" : "Gus Becker"
   },
   {
-    "name" : "Doodles",
-    "url" : "jazz-dude.com/Portfolio/doodles.html",
-    "owner" : "Jazz"
-  },
-  {
-    "name" : "Doodles",
-    "url" : "art.bymegan.com/doodles.html",
-    "owner" : "Megan Chesterton"
-  },
-  {
-    "name" : "my art 2024",
-    "url" : "uuupah.neocities.org/art/my-art-2024/",
-    "owner" : "uuupah"
-  },
-  {
-    "name" : "Webring Landing Page",
-    "url" : "yamasztuka.com/artindex.html",
-    "owner" : "Yamasztuka"
+    "name" : "Gus's Space Turtle",
+    "url" : "gusbus.space/turtle/",
+    "owner" : "Gus Becker"
   }
 ]
 
