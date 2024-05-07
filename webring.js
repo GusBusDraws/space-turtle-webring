@@ -2,7 +2,7 @@ let thisSite;
 let matchedSite;
 let prevSiteIndex;
 let nextSiteIndex;
-const WEBRING_DATA_URL = `https://gusbus.space/smallweb-subway/data.json`;
+const WEBRING_DATA_URL = `https://gusbus.space/space-turtle-webring/data.json`;
 let WEBRING_DATA;
 loadWebringJSON(WEBRING_DATA_URL);
 
@@ -36,7 +36,7 @@ function goToNext() {
 let template = document.createElement("template");
 template.innerHTML = `
   <div class="webring">
-    <h3>The Smallweb Subway</h3>
+    <h3>Space Turtle Webring</h3>
     <div>
       <button id="tri-left" onclick="goToPrev()"></button>
       <div id="line">
